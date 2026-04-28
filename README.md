@@ -1,4 +1,4 @@
-# 🚀 AI Code Reviewer (Streamlit + Groq / Ollama)
+# AI Code Reviewer (Streamlit + Groq / Ollama)
 
 **AI-powered code review tool** that scans repositories or single files and provides structured feedback using:
 
@@ -9,7 +9,7 @@ This tool helps developers quickly identify **bad practices, security risks, lon
 
 ---
 
-## ✨ Features
+## Features
 
 - Upload a **repository ZIP** or a **single file**  
 - Detect common issues:
